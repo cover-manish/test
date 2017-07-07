@@ -8,3 +8,10 @@
     text-align: center;
     text-transform: capitalize;
 }
+
+.random {
+    background-color: #dcdcdc;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: red;
+}
